@@ -8,4 +8,4 @@ https://github.com/tomyZhou/CardView/blob/master/CardExample/1440583225617.mp4
 
 ##-------------------------------华丽的分割线---------------------------##
 
-https://github.com/tomyZhou/CardView/blob/master/CardExample/1440583609024.jpg
+![image text](https://github.com/tomyZhou/CardView/blob/master/CardExample/1440583609024.jpg)
