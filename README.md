@@ -6,6 +6,4 @@
 
 ![image text](https://github.com/tomyZhou/CardView/blob/master/CardExample/1440585205119.gif)
 
-##--------------------------华丽的分割线------------------------##
 
-![image text](https://github.com/tomyZhou/CardView/blob/master/CardExample/1440583609024.jpg)
